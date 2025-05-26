@@ -5729,7 +5729,7 @@
   position:fixed;
   left:50%;
   margin-left:-600px;
-  bottom:0px;
+  top:0px;
   visibility:hidden;
 }
 #u188_state0 {
@@ -12656,7 +12656,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   position:fixed;
   left:50%;
   margin-left:-240px;
-  bottom:0px;
+  top:0px;
 }
 #u190.a {
   width:480px;
